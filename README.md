@@ -4,7 +4,7 @@ The Odin Project: Recipes
 In this project, I am going to create a Website which contains multiple pages containing recipes.
 
 Workflow:
-Home page will be very simple with a heading and links for multiple recipe pages in an unordered list.
+Home page will be very simple with headings and links for multiple recipe pages in an unordered and ordered lists.
 
 Each individual recipe page will follow a similar structure:
     Recipe's name
@@ -29,3 +29,15 @@ And the end of the projects i should have a simple working website with:
         List of Ingredients
         Steps to follow
         Links to navigate back to the home page.
+
+Credits:
+    Special thanks to them for providing free images.
+
+    1. Pancake image by muhammad.abdullah on Freepik: https://www.freepik.com/free-photo/golden-pancakes-drizzled-with-sweet-honey_42
+
+    2. Chili potato image created with Google Gemini for reference.
+
+    3. Shahi tukda Photo by Jack Baghel on Pexels: https://www.pexels.com/photo/top-view-of-a-shahi-tukda-dish-on-a-p>
+
+
+
