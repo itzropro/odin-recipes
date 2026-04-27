@@ -35,3 +35,12 @@ li,
     font-size: 30px;
     margin: 0;
 }
+
+.home_link{
+    display: block;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    text-align: center;
+    margin: 80px auto;
+}
