@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(100, 190, 255);
 }
 
 .title {
@@ -13,14 +13,15 @@ body{
 img{
     display: block;
     margin: auto;
+    border: 2px solid white;
 }
 
 .description,
 .ingredients,
 .steps {
-    margin: 40px 30px;
-    background-color: white;
-    border: 2px solid black;
+    margin: 40px 100px;
+    background-color: rgb(40, 40, 40);
+    border: 2px solid white;
     padding: 30px;
 }
 
@@ -28,12 +29,19 @@ h2{
     font-size: 30px;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
+    color: rgb(100, 190, 255);
 }
 
 li,
 .description p{
+    font-family: "Lucida sans", "Times New Roman", serif;
     font-size: 30px;
     margin: 0;
+    color:  white;
+}
+
+strong{
+    color: rgb(249, 249, 138);
 }
 
 .home_link{
@@ -43,4 +51,5 @@ li,
     font-weight: bold;
     text-align: center;
     margin: 80px auto;
+    color: rgb(40, 40, 40);
 }
