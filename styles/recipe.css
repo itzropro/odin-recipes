@@ -19,10 +19,12 @@ img{
 .description,
 .ingredients,
 .steps {
-    margin: 40px 100px;
+    margin: 40px auto;
     background-color: rgb(40, 40, 40);
     border: 2px solid white;
     padding: 30px;
+
+    width: 850px;
 }
 
 h2{
